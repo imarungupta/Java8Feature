@@ -73,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="functionalInterfaceDemo.TestFI" />
+    <configuration name="StreamMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javastreams.map.and.flatmap.StreamMap" />
       <module name="Java8InterviewQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="functionalInterfaceDemo.*" />
+          <option name="PATTERN" value="javastreams.map.and.flatmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,10 +115,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestHighestSalary" />
+        <item itemvalue="Application.StreamMap" />
         <item itemvalue="Application.CharacterFrequencyInString" />
         <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.StreamExample" />
-        <item itemvalue="Application.TestFI" />
       </list>
     </recent_temporary>
   </component>
