@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CharacterFrequencyInString">
+  <component name="RunManager" selected="Application.TestHighestSalary">
     <configuration name="CharacterFrequencyInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="character.frequency.CharacterFrequencyInString" />
       <module name="Java8InterviewQ" />
@@ -86,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLambdaExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaexpression.TestLambdaExp" />
+    <configuration name="TestHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find.highes.paid.employee.detpwise.TestHighestSalary" />
       <module name="Java8InterviewQ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaexpression.*" />
+          <option name="PATTERN" value="find.highes.paid.employee.detpwise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestHighestSalary" />
         <item itemvalue="Application.CharacterFrequencyInString" />
         <item itemvalue="Application.TestMap" />
         <item itemvalue="Application.StreamExample" />
         <item itemvalue="Application.TestFI" />
-        <item itemvalue="Application.TestLambdaExp" />
       </list>
     </recent_temporary>
   </component>
